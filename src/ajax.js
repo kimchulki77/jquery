@@ -10,7 +10,7 @@ define([
 	"./ajax/parseXML",
 	"./deferred"
 ], function( jQuery, document, rnotwhite, location, nonce, rquery ) {
- zzzzzz 내가 커스텀
+// zzzzzz 내가 커스텀 hihihi
 var
 	rhash = /#.*$/,
 	rts = /([?&])_=[^&]*/,
